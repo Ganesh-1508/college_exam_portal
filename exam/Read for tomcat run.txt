@@ -1,0 +1,19 @@
+
+Requirement :
+What database?        : MySQL (examdb)
+What server?Apache    : Tomcat 10.1.49
+Programming language? : Java (JSP)
+How many tables?      : 4 (admin, student, questions, results)
+How many questions?   : 10 multiple choiceTime
+limit?                : 15 minutes with auto-submit 
+Admin credentials?    : admin / admin123
+**************************************************************************
+on CMD :
+>> cd C:\apache-tomcat-10.1.49\bin
+>> set JAVA_HOME=C:\Program Files\Java\jdk-25
+>> catalina.bat run
+***************************************************************************
+On browser :
+http://localhost:8080/exam/
+
+
