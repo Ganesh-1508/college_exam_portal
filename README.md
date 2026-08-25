@@ -7,7 +7,7 @@ The **Online Exam System** is a full-stack web application that enables educatio
 Students can:  
 - Register and log in securely  
 - Select from multiple subjects  
-- Take timed exams  
+- Take timed exams   
 - Receive instant results  
 
 Administrators can:  
